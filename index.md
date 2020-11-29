@@ -32,10 +32,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skipmcgee/WeatherApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Links:
+- Download the WeatherApp [here](https://github.com/skipmcgee/WeatherApp/tree/main/download).
+- Check out the source code and instructions if you want to roll your own WeatherApp at [weatherscraper](https://github.com/skipmcgee/weatherscraper).
+- Web page for the [WeatherApp project](https://skipmcgee.github.io/WeatherApp/).
+- Learn more about me at my personal page [Skip McGee](https://skipmcgee.github.io).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+#### The WeatherApp project is designed, built and maintained by Skip McGee
 
 <p float="middle">
   <img src="/images/hunter1.jpg" width="26%" title="Hillside in Northern Arizona" />
