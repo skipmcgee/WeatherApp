@@ -9,4 +9,4 @@ This application is designed to display the current weather at your location + t
 - Web page for the [WeatherApp project](https://skipmcgee.github.io/WeatherApp/).
 - Learn more about me at my personal page [Skip McGee](https://skipmcgee.github.io).
 ##
-#### The WeatherApp project is designed and built by Skip McGee
+#### The WeatherApp project is designed, built and maintained by Skip McGee
