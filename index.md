@@ -9,9 +9,11 @@ This application is designed to display the current weather at your location + t
 ### Navigate to the [Downloads](https://github.com/skipmcgee/WeatherApp/tree/main/download) folder to get the app:
 <p align="center">
   <img src="/images/menu.png" width="60%" />
-  <text="Full contents include the executable, hashfile, license and readme." />
-        </p>
-
+</p>
+<p align="center">
+  <b>"Full contents include the executable, hashfile, license and readme."</b><br>
+  <br><br>
+</p>
 ### Application Sneak peek:
 
 <p float="middle">
