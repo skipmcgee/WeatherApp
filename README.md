@@ -5,7 +5,7 @@ This application is designed to display the current weather at your location + t
 ####
 ### Links:
 - Download the WeatherApp [here](https://github.com/skipmcgee/WeatherApp/tree/main/download).
-- Check out the source code and instructions if you want to roll your own weatherapp at [weatherscraper](https://github.com/skipmcgee/weatherscraper).
+- Check out the source code and instructions if you want to roll your own WeatherApp at [weatherscraper](https://github.com/skipmcgee/weatherscraper).
 - Web page for the [WeatherApp project](https://skipmcgee.github.io/WeatherApp/).
 - Learn more about me at my personal page [Skip McGee](https://skipmcgee.github.io).
 ##
