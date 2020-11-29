@@ -1,9 +1,6 @@
 ## Who are 'The Looters?' 
 
-<div style="float: right">
-    ![Looters](/images/logo.png)
-</div>
-
+<img align="right" width="5%" src="/images/logo.png">
 A group of Marines who deployed together as part of the Deployed Joint Command & Control 20.2 Detachment, interested in technical development and creative, unique solutions to problems.
 
 ### Purpose:
