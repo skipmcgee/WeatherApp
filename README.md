@@ -10,3 +10,5 @@ This application is designed to display the current weather at your location + t
 - Learn more about me at my personal page [Skip McGee](https://skipmcgee.github.io).
 ##
 #### <p align="right"><b>The WeatherApp project is designed, built and maintained by Skip McGee</b></p> 
+
+#### [<<<Back to Skip's GitHub page](https://skipmcgee.github.io)
