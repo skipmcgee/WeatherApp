@@ -6,7 +6,7 @@ A group of Marines who deployed together as part of the Deployed Joint Command &
 
 This GUI application is designed to display the current weather at your location + the current weather at a second location of your choosing (such as hub/spoke satellite sites, etc.). The two locations can be any where across the globe, simply input the name of the nearest major city. The API data is updated approximately every 15 minutes, so a new search will be accurate to within that time period. This application could be helpful in a Command Operations Center, a Movement Coordination Center or at a Helpdesk / Service Center.
 
-### Navigate to the [Downloads](https://github.com/skipmcgee/WeatherApp/tree/main/download) folder to get your copy of the app:
+### Navigate to the Sidebar Button or project [Downloads folder](https://github.com/skipmcgee/WeatherApp/tree/main/download) to get your copy of the app:
 
 <p align="center">
   <img src="images/menu.png" width="60%" />
