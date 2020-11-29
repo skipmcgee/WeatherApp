@@ -1,4 +1,4 @@
-# Who are *'The Looters?'* <img align="right" width="9%" src="./images/logo.png">
+# Who are *'The Looters?'* <img align="right" width="9%" src="images/logo.png">
 
 A group of Marines who deployed together as part of the Deployed Joint Command & Control 20.2 Detachment, interested in technical development and excited by creative, unique problem solutions.
 
@@ -9,7 +9,7 @@ This GUI application is designed to display the current weather at your location
 ### Navigate to the [Downloads](https://github.com/skipmcgee/WeatherApp/tree/main/download) folder to get your copy of the app:
 
 <p align="center">
-  <img src="./images/menu.png" width="60%" />
+  <img src="images/menu.png" width="60%" />
 </p>
 <p align="center">
   <b>Contents include the executable, hashfile, license and readme.</b>
@@ -18,9 +18,9 @@ This GUI application is designed to display the current weather at your location
 ### What is *The Looter's* WeatherApp? Check out a sneak peak:
 
 <p float="middle">
-  <img src="./images/app1.png" width="33%" />
-  <img src="./images/app2.png" width="33%" /> 
-  <img src="./images/apperror.png" width="33%" /> 
+  <img src="images/app1.png" width="33%" />
+  <img src="images/app2.png" width="33%" /> 
+  <img src="images/apperror.png" width="33%" /> 
 </p>
 
 ### Links:
