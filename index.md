@@ -28,7 +28,7 @@ This GUI application is designed to display the current weather at your location
 - Check out the source code and instructions if you want to roll your own WeatherApp at: [weatherscraper](https://github.com/skipmcgee/weatherscraper).
 - Web page for *The Looter's* [WeatherApp project](https://skipmcgee.github.io/WeatherApp/).
 - Meet [*'The Looters'*](https://skipmcgee.github.io/20.2_deployment/).
-- Learn more about me at my personal page [Skip McGee](https://skipmcgee.github.io).
+- Learn more about me at *[Skip McGee](https://skipmcgee.github.io)*.
 
 <p align="right"><b>The Looter's WeatherApp project is designed, built and maintained by Skip McGee</b></p>
 
