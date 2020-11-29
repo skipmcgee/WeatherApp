@@ -43,7 +43,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   <img src="/images/deer.jpg" width="26%" title="Deer" /> 
 </p>
 
-<p align="center">
-  <b>'The Looters' (minus 4)</b><br>
-  <br><br>
-</p>
