@@ -15,7 +15,7 @@ This application is designed to display the current weather at your location + t
   <b>Contents include the executable, hashfile, license and readme.</b>
 </p>
 
-### Application Sneak peek:
+### What is the WeatherApp? Check out a sneak peak:
 
 <p float="middle">
   <img src="/images/app1.png" width="33%" />
@@ -30,5 +30,6 @@ This application is designed to display the current weather at your location + t
 - Learn more about ['The Looters'](https://skipmcgee.github.io/20.2_deployment/).
 - Learn more about me at my personal page [Skip McGee](https://skipmcgee.github.io).
 
-#### [<<<Back to Skip's GitHub page](https://skipmcgee.github.io)<p align="right"><b>The WeatherApp project is designed, built and maintained by Skip McGee</b></p> 
+<p align="right"><b>The WeatherApp project is designed, built and maintained by Skip McGee</b></p> 
 
+#### [<<<Back to Skip's GitHub page](https://skipmcgee.github.io)
