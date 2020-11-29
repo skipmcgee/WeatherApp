@@ -2,7 +2,7 @@
 
 A group of Marines who deployed together as part of the Deployed Joint Command & Control 20.2 Detachment, interested in technical development and creative, unique problem solutions.
 
-### Purpose:
+### What is the WeatherApp's Purpose?
 
 This application is designed to display the current weather at your location + the current weather at a second location of your choosing (such as hub/spoke satellite sites, etc.). The two locations can be any where across the globe, simply input the name of the nearest major city. The API data is updated approximately every 15 minutes, so a new search will be accurate to within that time period.
 
