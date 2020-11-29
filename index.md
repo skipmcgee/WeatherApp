@@ -1,7 +1,7 @@
 
-## Who are 'The Looters?'
+## Who are 'The Looters?' <p float="left"><img src="/images/logo.png" width="10%" /></p>
 
-<p float="left"><img src="/images/logo.png" width="10%" /></p>
+
 
 ### Purpose:
 
