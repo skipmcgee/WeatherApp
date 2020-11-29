@@ -2,11 +2,9 @@ theme: jekyll-theme-architect
 title: ["The Looter's WeatherApp"]
 description: ["Windows 10 application to monitor the current weather in two locations across the globe"]
 show_downloads: ["true"]
-google_analytics: [Your Google Analytics tracking ID]
 author :
-  name : [Skip McGee]
-  email : [davidfranklinmcgee@gmail.com]
-  github : [skipmcgee]
-  
-  
+  name : ["Skip McGee"]
+  email : ["davidfranklinmcgee@gmail.com"]
+  github : ["skipmcgee"]
+google_analytics: []  
   
