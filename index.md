@@ -35,3 +35,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+<p float="middle">
+  <img src="/images/hunter1.jpg" width="26%" title="Hillside in Northern Arizona" />
+  <img src="/images/thelooters.jpg" width="44%" title="The 'Looters' (minus 4)" /> 
+  <img src="/images/deer.jpg" width="26%" title="Deer" /> 
+</p>
+
+<p align="center">
+  <b>'The Looters' (minus 4)</b><br>
+  <br><br>
+</p>
