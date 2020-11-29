@@ -30,6 +30,6 @@ This GUI application is designed to display the current weather at your location
 - Meet [*'The Looters'*](https://skipmcgee.github.io/20.2_deployment/).
 - Learn more about me at my personal page [Skip McGee](https://skipmcgee.github.io).
 
-*<p align="right"><b>The Looter's WeatherApp project is designed, built and maintained by Skip McGee</b></p>*
+<p align="right"><b>The Looter's WeatherApp project is designed, built and maintained by Skip McGee</b></p>
 
 #### [<<<Back to Skip's GitHub page](https://skipmcgee.github.io)
