@@ -21,7 +21,7 @@ This GUI application is designed to display the current weather at your location
   <img src="images/app1.png" width="31%" />
   <img src="images/app2.png" width="31%" /> 
   <img src="images/apperror.png" width="31%" /> 
-</p>
+</p><p></p>
 
 ### Links:
 - Download the [WeatherApp](https://github.com/skipmcgee/WeatherApp/tree/main/download).
