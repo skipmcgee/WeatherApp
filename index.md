@@ -1,28 +1,20 @@
 
-## Welcome to GitHub Pages
+## Who are 'The Looters?'
 
-You can use the [editor on GitHub](https://github.com/skipmcgee/WeatherApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p float="left"><img src="/images/logo.png" width="10%" /></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<p float="left">
-  <img src="/images/logo.png" width="10%" />
-</p>
+### Purpose:
 
-### Markdown
+This application is designed to display the current weather at your location + the current weather at a second location of your choosing (such as hub/spoke satellite sites, etc.). The two locations can be any where across the globe, simply input the name of the nearest major city. The API data is updated approximately every 15 minutes, so a new search will be accurate to within that time period.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
+### Navigate to the [Downloads](https://github.com/skipmcgee/WeatherApp/tree/main/download) folder to get the app:
 <p float="middle">
   <img src="/images/menu.png" width="60%" />
 </p>
+Full contents include the executable, hashfile, license and readme.
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skipmcgee/WeatherApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
+### Application Sneak peek:
 
 <p float="middle">
   <img src="/images/app1.png" width="33%" />
@@ -38,3 +30,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 #### The WeatherApp project is designed, built and maintained by Skip McGee
 
+[<<<Back to Skip's GitHub page](https://skipmcgee.github.io/)
