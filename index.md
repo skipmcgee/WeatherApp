@@ -10,10 +10,10 @@ This application is designed to display the current weather at your location + t
 
 <p align="center">
   <img src="/images/menu.png" width="60%" />
+  <b>"Contents include the executable, hashfile, license and readme."</b>
 </p>
 <p align="center">
-  <b>"Contents include the executable, hashfile, license and readme."</b><br>
-  <br><br>
+  <b>"Contents include the executable, hashfile, license and readme."</b>
 </p>
 
 ### Application Sneak peek:
