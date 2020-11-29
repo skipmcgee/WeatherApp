@@ -1,5 +1,5 @@
 
-## Who are 'The Looters?' <p float="left"><img src="/images/logo.png" width="10%" /></p>
+## Who are 'The Looters?' <p float="right"><img src="/images/logo.png" width="10%" /></p>
 
 
 
