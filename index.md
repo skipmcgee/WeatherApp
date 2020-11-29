@@ -41,8 +41,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 #### The WeatherApp project is designed, built and maintained by Skip McGee
 
 <p float="middle">
-  <img src="/images/hunter1.jpg" width="26%" title="Hillside in Northern Arizona" />
-  <img src="/images/thelooters.jpg" width="44%" title="The 'Looters' (minus 4)" /> 
-  <img src="/images/deer.jpg" width="26%" title="Deer" /> 
+  <img src="/images/app1.png" width="26%" />
+  <img src="/images/app2.png" width="44%" /> 
+  <img src="/images/apperror.png" width="26%" /> 
 </p>
 
