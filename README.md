@@ -8,6 +8,13 @@ This application is designed to display the current weather at your location + t
 - Check out the source code and instructions if you want to roll your own WeatherApp at [weatherscraper](https://github.com/skipmcgee/weatherscraper).
 - Web page for *The Looter's* [WeatherApp project](https://skipmcgee.github.io/WeatherApp/).
 - Learn more about me at my personal page [Skip McGee](https://skipmcgee.github.io).
+####
+### App Requirements:
+- Windows 10
+- Internet Connection
+- Appropriate privilege to run an executable in your environment
+####
+##
 ##
 #### *<p align="right"><b>The WeatherApp project is designed, built and maintained by Skip McGee</b></p>*
 
