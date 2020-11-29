@@ -14,7 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 <p float="middle">
-  <img src="/images/menu.png" width="70%" />
+  <img src="/images/menu.png" width="60%" />
 </p>
 
 
