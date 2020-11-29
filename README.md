@@ -2,7 +2,7 @@
 ####
 
 ####
-### Application Requirements:
+### App Requirements:
 - Windows 10
 - Internet Connection
 - Appropriate privilege to run an executable in your environment
