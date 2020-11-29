@@ -1,5 +1,7 @@
 
-## Who are 'The Looters?' <p float="right"><img src="/images/logo.png" width="10%" /></p>
+## Who are 'The Looters?' 
+
+<p>Group of guys</p><p float="right"><img src="/images/logo.png" width="10%" /></p>
 
 
 
@@ -23,7 +25,7 @@ Full contents include the executable, hashfile, license and readme.
 </p>
 
 ### Links:
-- Download the WeatherApp [here](https://github.com/skipmcgee/WeatherApp/tree/main/download).
+- Download the [WeatherApp](https://github.com/skipmcgee/WeatherApp/tree/main/download).
 - Check out the source code and instructions if you want to roll your own WeatherApp at [weatherscraper](https://github.com/skipmcgee/weatherscraper).
 - Web page for the [WeatherApp project](https://skipmcgee.github.io/WeatherApp/).
 - Learn more about me at my personal page [Skip McGee](https://skipmcgee.github.io).
