@@ -18,9 +18,9 @@ This GUI application is designed to display the current weather at your location
 ### What is *The Looter's* WeatherApp? Check out a sneak peak:
 
 <p float="middle">
-  <img src="images/app1.png" width="33%" />
-  <img src="images/app2.png" width="33%" /> 
-  <img src="images/apperror.png" width="33%" /> 
+  <img src="images/app1.png" width="32%" />
+  <img src="images/app2.png" width="32%" /> 
+  <img src="images/apperror.png" width="32%" /> 
 </p>
 
 ### Links:
