@@ -1,9 +1,6 @@
-
 ## Who are 'The Looters?' 
 
-<p>Group of guys</p><p float="right"><img src="/images/logo.png" width="10%" /></p>
-
-
+<p>Group of guys</p><p float="right"><img src="/images/logo.png" width="5%" /></p>
 
 ### Purpose:
 
@@ -14,7 +11,6 @@ This application is designed to display the current weather at your location + t
   <img src="/images/menu.png" width="60%" />
 </p>
 Full contents include the executable, hashfile, license and readme.
-
 
 ### Application Sneak peek:
 
@@ -28,6 +24,7 @@ Full contents include the executable, hashfile, license and readme.
 - Download the [WeatherApp](https://github.com/skipmcgee/WeatherApp/tree/main/download).
 - Check out the source code and instructions if you want to roll your own WeatherApp at [weatherscraper](https://github.com/skipmcgee/weatherscraper).
 - Web page for the [WeatherApp project](https://skipmcgee.github.io/WeatherApp/).
+- Learn more about ['The Looters'](https://skipmcgee.github.io/20.2_deployment/).
 - Learn more about me at my personal page [Skip McGee](https://skipmcgee.github.io).
 
 #### The WeatherApp project is designed, built and maintained by Skip McGee
