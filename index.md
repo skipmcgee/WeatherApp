@@ -25,9 +25,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 <p float="middle">
-  <img src="/images/app1.png" width="30%" />
-  <img src="/images/app2.png" width="30%" /> 
-  <img src="/images/apperror.png" width="30%" /> 
+  <img src="/images/app1.png" width="33%" />
+  <img src="/images/app2.png" width="33%" /> 
+  <img src="/images/apperror.png" width="33%" /> 
 </p>
 
 ### Links:
