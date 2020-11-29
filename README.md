@@ -10,7 +10,7 @@
 
 ####
 ### Helpful Links:
-- Main Application [Webpage](https://skipmcgee.github.io/WeatherApp/).
+- Main App [Webpage](https://skipmcgee.github.io/WeatherApp/).
 - Download *The Looter's* [WeatherApp](https://github.com/skipmcgee/WeatherApp/tree/main/download).
 - Check out the source code and instructions if you want to roll your own WeatherApp at: [weatherscraper](https://github.com/skipmcgee/weatherscraper).
 - Web page for *The Looter's* [WeatherApp project](https://skipmcgee.github.io/WeatherApp/).
