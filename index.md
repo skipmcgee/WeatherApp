@@ -1,3 +1,7 @@
+<p float="right">
+  <img src="/images/menu.png" width="70%" />
+</p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/skipmcgee/WeatherApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -21,6 +25,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+<p float="middle">
+  <img src="/images/menu.png" width="26%" />
+</p>
+
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -41,8 +50,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 #### The WeatherApp project is designed, built and maintained by Skip McGee
 
 <p float="middle">
-  <img src="/images/app1.png" width="26%" />
-  <img src="/images/app2.png" width="44%" /> 
-  <img src="/images/apperror.png" width="26%" /> 
+  <img src="/images/app1.png" width="30%" />
+  <img src="/images/app2.png" width="30%" /> 
+  <img src="/images/apperror.png" width="30%" /> 
 </p>
 
