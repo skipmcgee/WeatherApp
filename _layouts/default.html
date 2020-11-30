@@ -37,7 +37,7 @@
 
         <aside id="sidebar">
           {% if site.show_downloads %}
-            <a href="https://github.com/skipmcgee/WeatherApp/archive/v1.0.0.zip" class="button"><small>Download The Looter's</small>WeatherApp</a>
+            <a href="{{ site.github.stable_zip_url }}" class="button"><small>Download The Looter's</small>WeatherApp</a>
           {% endif %}
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.title }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
