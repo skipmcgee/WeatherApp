@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
 title: "The Looter's WeatherApp"
 description: "Windows 10 application to monitor the current weather in two locations across the globe"
-
+build_revision : "https://github.com/skipmcgee/WeatherApp/releases"
 show_downloads: "true"
 owner_url : "https://skipmcgee.github.io"
 
