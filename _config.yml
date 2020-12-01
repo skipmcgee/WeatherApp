@@ -6,7 +6,10 @@ owner_url : "https://skipmcgee.github.io"
 stable_zip_url : "https://github.com/skipmcgee/WeatherApp/archive/v1.0.1.zip"
 gtag.js : "G-MC8X173TB1"
 google_analytics : "G-MC8X173TB1"
-  
+url: "https://skipmcgee.github.io/WeatherApp"
+plugins :
+  - jekyll-paginate
+  - jekyll-sitemap
 author :
   name : "Skip McGee"
   email : "davidfranklinmcgee@gmail.com"
