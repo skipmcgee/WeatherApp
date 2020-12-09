@@ -15,3 +15,5 @@ In order to access the API utilized in this application:
 - Under the options, subscribe for the "Free Current Weather". Create an API key.
 - Add your key to the "api_key" variable below. Run this little application!
 - (Note: If you aren't a DJC2 20.2 "Looter", you might want to consider changing the application name, logo and default locations.)
+
+To enable code signing, a powershell script is provided to sign the executable in your environment and then add the signing certificate to your Domain Controller to prevent environment-specific useer execution policy issues.
