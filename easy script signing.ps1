@@ -1,0 +1,2 @@
+﻿$certPath = Get-ChildItem -Path Cert:\LocalMachine\My\ -CodeSigningCert
+Set-AuthenticodeSignature -FilePath '\\us\usershare\DJC2 20.2\systems\Cpl Gibson\vismaster project\Whats_Down_Package\Whats_Down\Whats_Down_Updater.ps1' -Certificate $certPath
