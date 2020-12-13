@@ -16,4 +16,4 @@ In order to access the API utilized in this application:
 - Add your key to the "api_key" variable below. Run this little application!
 - (Note: If you aren't a DJC2 20.2 "Looter", you might want to consider changing the application name, logo and default locations.)
 
-To enable code signing, a powershell script is provided to sign the executable in your environment and then add the signing certificate to your Domain Controller to prevent environment-specific useer execution policy issues.
+To enable code signing, a powershell script (certificate_creation_and_signing.ps1) is provided to sign the executable in your environment - then add the signing certificate to your Domain Controller to prevent environment-specific user execution policy issues.
