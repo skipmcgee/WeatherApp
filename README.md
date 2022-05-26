@@ -20,4 +20,4 @@
 *<p align="right"><b>The Looter's WeatherApp project is designed, built and maintained by Skip McGee</b></p>*
 ####
 
-#### [<<<Back to Skip's GitHub page](https://skipmcgee.github.io)
+#### [Back to Skip's GitHub page](https://skipmcgee.github.io)
